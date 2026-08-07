@@ -31,7 +31,8 @@ Here are some ideas to get you started:
 
 ### Socials <3
 
-![https://discord.com/users/1195700169795190845](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white) ![https://www.tiktok.com/@kkimzzz_](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1195700169795190845)
+[![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@kkimzzz_)
 
 <picture data-importer="pacman">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dheca-haluw/dheca-haluw/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
